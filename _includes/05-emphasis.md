@@ -1,5 +1,5 @@
-*Fast*
+- *Fast*
 
-**Strong**
+- **Strong**
 
-**_Fast and Strong_**
+- **_Fast and Strong_**

@@ -1,3 +1,4 @@
 - eat food
 - money
 - sleep
+- die

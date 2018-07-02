@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+[x] eat food
+[ ] sleep
+[ ] marry a hot female

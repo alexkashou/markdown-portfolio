@@ -1,3 +1,3 @@
-[x] eat food
-[ ] sleep
-[ ] marry a hot female
+- eat food
+- money
+- sleep
